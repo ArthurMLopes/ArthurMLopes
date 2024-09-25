@@ -1,16 +1,16 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 💠
 
-<!--
-**ArthurMLopes/ArthurMLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arthur M. Lopes
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com.br)
+- Estou desenvolvendo linguagem  java script
+- Utilizo este espaço para organização e compartilhamentos de meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📧
+
+  arthurmoreiralopes1@gmail.com
+  
+  @arthurmoreiralopes1
+
+  ![](https://media1.tenor.com/m/RgxJ1ae1DvAAAAAd/guzma-hakari-dance.gif)
+  
